@@ -31,4 +31,10 @@
 // git remote（远程） add（增加） origin（别名，可改） https://gitee.com/xhzwan/wan.git （路径）  关联本地和远程仓库的
 // git  branch -M main   默认的master分支名称改为main
 // git push(推送) -u（第一次添加必须加） origin（代指路径地址） main（代指一个分支）
-// git push 同步云端 
+// git push 同步云端
+
+// 码云
+// cd excting
+
+
+
